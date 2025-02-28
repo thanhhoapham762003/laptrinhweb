@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict 1
+=======
+conflict 2
+>>>>>>> conflict_1
