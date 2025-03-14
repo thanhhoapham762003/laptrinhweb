@@ -34,7 +34,7 @@
         @yield('content')
 
         <div class="footer">
-            Lập Trình Web be2 Nhóm C
+            Lập Trình Web be2 Nhóm E
         </div>
     </body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
